@@ -1,0 +1,6 @@
+D:\18.11.2247\Constructor\Constructor\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+D:\18.11.2247\Constructor\Constructor\Constructor\bin\Debug\Constructor.exe.config
+D:\18.11.2247\Constructor\Constructor\Constructor\bin\Debug\Constructor.exe
+D:\18.11.2247\Constructor\Constructor\Constructor\bin\Debug\Constructor.pdb
+D:\18.11.2247\Constructor\Constructor\Constructor\obj\Debug\Constructor.exe
+D:\18.11.2247\Constructor\Constructor\Constructor\obj\Debug\Constructor.pdb
